@@ -1,0 +1,15 @@
+config:
+  target: "http://localhost:3000"
+  phases:
+    - duration: 60
+      arrivalRate: 2000
+
+scenarios:
+  - flow:
+      - post:
+          url: "/tasks"
+          headers:
+            Content-Type: "application/json"
+          json:
+            name: "Example Task"
+            description: "This is a long-running task example"
