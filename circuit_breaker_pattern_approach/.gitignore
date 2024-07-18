@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+.npm
+package-lock.json
+
+# TypeScript 
+/dist
+*.tsbuildinfo
+
+# Eslint
+.eslintcache
+
+# IDE files
+.vscode

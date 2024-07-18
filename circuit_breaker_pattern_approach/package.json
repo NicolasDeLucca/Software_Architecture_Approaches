@@ -1,0 +1,24 @@
+{
+    "name": "circuit-breaker-pattern",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc",
+        "dev:circuitBreakerService": "ts-node circuitBreakerService/app.ts",
+        "start:circuitBreakerService": "node dist/circuitBreakerService/app.js",
+        "dev:externalService": "ts-node externalService/app.ts",
+        "start:externalService": "node dist/externalService/app.js"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.11",
+        "@types/node": "^14.14.31",
+        "@types/opossum": "^8.1.7"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "ts-node": "^9.1.1",
+        "opossum": "^5.1.2",
+        "winston": "^3.3.3"
+    }
+}
