@@ -1,0 +1,1584 @@
+[{
+  "_id": {
+    "$oid": "679972931b686a75330c86a4"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997293d256926123d5ff5d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997293fcd99b63c792bbd7"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972937e9f5512a818b4b6"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997293cabf2a793947caf9"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972937e9f5512a818b4b8"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729363766bb2044550cb"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997293b5f33720638ddcf9"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729363766bb2044550cd"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:07.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997294fcd99b63c792bbdf"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:08.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997296fcd99b63c792bbed"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972967e9f5512a818b4cc"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729663766bb2044550dd"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972961b686a75330c86b2"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997296b5f33720638ddd05"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729663766bb2044550df"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:10.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997297fcd99b63c792bbef"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:11.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997297cabf2a793947cb0b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:11.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997297d256926123d5ff6f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:11.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972977e9f5512a818b4d2"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:11.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67997299fcd99b63c792bbfd"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:13.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972997e9f5512a818b4e0"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:13.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972991b686a75330c86be"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:13.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729963766bb2044550ef"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:13.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729a7e9f5512a818b4e2"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:14.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729a63766bb2044550f7"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:14.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729acabf2a793947cb17"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:14.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729afcd99b63c792bbff"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:14.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729ab5f33720638ddd13"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:14.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729c7e9f5512a818b4f0"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:16.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729c1b686a75330c86c8"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:16.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729c63766bb204455109"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:16.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729d63766bb20445510b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:17.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729d7e9f5512a818b4f6"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:17.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729dfcd99b63c792bc0f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:17.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729dcabf2a793947cb21"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:17.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729eb5f33720638ddd21"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:18.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729e63766bb204455113"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:18.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799729efcd99b63c792bc15"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:18.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a07e9f5512a818b504"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:20.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a01b686a75330c86d8"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:20.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a063766bb20445511f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:20.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a0fcd99b63c792bc1f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:20.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a063766bb204455125"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:20.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a17e9f5512a818b508"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:21.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a1b5f33720638ddd2b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:21.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a1cabf2a793947cb2b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:21.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a1fcd99b63c792bc25"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:21.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a163766bb20445512b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:21.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a363766bb204455133"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:23.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a3fcd99b63c792bc2f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:23.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a37e9f5512a818b514"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:23.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a47e9f5512a818b518"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:24.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a4b5f33720638ddd35"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:24.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a4cabf2a793947cb35"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:24.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a463766bb20445513b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:24.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a4fcd99b63c792bc37"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:24.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a663766bb204455149"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:26.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a663766bb20445514b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:26.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a763766bb204455153"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a77e9f5512a818b522"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a7cabf2a793947cb3f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a7fcd99b63c792bc43"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a7b5f33720638ddd41"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a7fcd99b63c792bc45"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:27.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a963766bb204455167"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:29.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a963766bb204455169"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:29.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a963766bb20445516b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:29.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972a963766bb20445516d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:29.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972aa63766bb204455173"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:30.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972aafcd99b63c792bc51"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:30.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972aacabf2a793947cb4d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:30.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972aab5f33720638ddd4b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:30.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ac63766bb20445518f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:32.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ac63766bb204455191"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:32.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ac63766bb204455193"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:32.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ad63766bb20445519b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:33.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972adfcd99b63c792bc5d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:33.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972adcabf2a793947cb57"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:33.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ad63766bb2044551a3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:33.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ad63766bb2044551a7"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:33.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ae63766bb2044551ab"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:34.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972aeb5f33720638ddd59"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:34.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972af63766bb2044551bd"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:35.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972af63766bb2044551c1"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:35.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972af63766bb2044551c3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:35.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b063766bb2044551c5"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:36.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b0cabf2a793947cb61"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:36.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b163766bb2044551d1"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:37.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b1fcd99b63c792bc67"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:37.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b163766bb2044551d5"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:37.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b2b5f33720638ddd63"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:38.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b363766bb2044551e7"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:39.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b363766bb2044551eb"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:39.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b363766bb2044551ed"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:39.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b363766bb2044551f1"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:39.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b3cabf2a793947cb6b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:39.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b463766bb2044551f9"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:40.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b4fcd99b63c792bc71"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:40.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b563766bb204455205"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:41.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b663766bb204455213"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:42.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b663766bb20445521b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:42.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b663766bb20445521d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:42.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b763766bb204455221"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:43.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b763766bb204455223"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:43.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b7fcd99b63c792bc7b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:43.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b7cabf2a793947cb75"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:43.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b763766bb204455229"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:43.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b863766bb204455235"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:44.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b963766bb204455241"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:45.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972b963766bb204455247"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:45.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ba63766bb20445524b"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:46.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ba63766bb20445524f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:46.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bacabf2a793947cb7f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:46.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bafcd99b63c792bc85"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:46.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972ba63766bb204455255"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:46.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bb63766bb204455269"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:47.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bc63766bb204455271"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:48.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bc63766bb204455275"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:48.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bc63766bb204455279"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:48.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bd63766bb20445527d"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:49.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bdfcd99b63c792bc8f"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:49.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bd63766bb204455283"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:49.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bd63766bb204455285"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:49.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bd63766bb204455287"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:49.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972becabf2a793947cb89"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:50.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972bf63766bb2044552a1"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:51.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c063766bb2044552a5"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:52.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c063766bb2044552ab"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:52.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c163766bb2044552af"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:53.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c1fcd99b63c792bc99"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:53.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c163766bb2044552b3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:53.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c163766bb2044552b5"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:53.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c163766bb2044552c3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:53.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c263766bb2044552d1"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:54.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c263766bb2044552d3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:54.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c363766bb2044552db"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:55.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c363766bb2044552df"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:55.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c4fcd99b63c792bca3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"rechazado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:56.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c463766bb2044552e9"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:56.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c463766bb2044552eb"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"> 500 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:56.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c463766bb2044552f3"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:56.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c563766bb2044552f5"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:57.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679972c563766bb2044552f7"
+  },
+  "level": "info",
+  "message": "{\"status\":\"aprobado\",\"tiempoRespuesta\":\"< 100 ms\"}",
+  "timestamp": {
+    "$date": "2025-01-29T00:13:57.076Z"
+  },
+  "__v": 0
+}]

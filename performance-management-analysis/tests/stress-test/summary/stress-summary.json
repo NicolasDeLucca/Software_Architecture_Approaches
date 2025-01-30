@@ -1,0 +1,158 @@
+{
+    "metrics": {
+        "data_received": {
+            "rate": 28079.006316258525,
+            "count": 67552871
+        },
+        "iteration_duration": {
+            "max": 6150.4617,
+            "p(90)": 6009.5627,
+            "p(95)": 6015.7556,
+            "avg": 3527.725066809961,
+            "min": 3062.061,
+            "med": 3092.3323
+        },
+        "http_req_waiting": {
+            "min": 0,
+            "med": 7.4162,
+            "max": 3020.2345,
+            "p(90)": 613.95198,
+            "p(95)": 624.89818,
+            "avg": 174.78205028974898
+        },
+        "vus_max": {
+            "value": 235,
+            "min": 235,
+            "max": 235
+        },
+        "http_req_blocked": {
+            "avg": 0.0468644043862847,
+            "min": 0,
+            "med": 0,
+            "max": 16.6545,
+            "p(90)": 0,
+            "p(95)": 0.53
+        },
+        "iterations": {
+            "count": 79551,
+            "rate": 33.0661450564356
+        },
+        "vus": {
+            "min": 1,
+            "max": 234,
+            "value": 5
+        },
+        "http_req_duration{expected_response:true}": {
+            "avg": 233.64071438991536,
+            "min": 52.7116,
+            "med": 72.6045,
+            "max": 770.0733,
+            "p(90)": 621.62219,
+            "p(95)": 625.68361
+        },
+        "http_req_sending": {
+            "avg": 0.06292396575781582,
+            "min": 0,
+            "med": 0,
+            "max": 29.3275,
+            "p(90)": 0.516,
+            "p(95)": 0.5439
+        },
+        "http_reqs": {
+            "count": 238653,
+            "rate": 99.1984351693068
+        },
+        "http_req_receiving": {
+            "max": 30.9419,
+            "p(90)": 0.543,
+            "p(95)": 0.5833,
+            "avg": 0.13403863265913352,
+            "min": 0,
+            "med": 0
+        },
+        "checks": {
+            "passes": 477306,
+            "fails": 0,
+            "value": 1
+        },
+        "http_req_duration": {
+            "avg": 174.97901288816598,
+            "min": 0.3776,
+            "med": 7.6136,
+            "max": 3020.2345,
+            "p(90)": 614.13894,
+            "p(95)": 625.1017400000001,
+            "thresholds": {
+                "p(90)<800": false
+            }
+        },
+        "http_req_connecting": {
+            "avg": 0.026456575446359334,
+            "min": 0,
+            "med": 0,
+            "max": 6.8211,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "data_sent": {
+            "count": 82971693,
+            "rate": 34487.98929386233
+        },
+        "http_req_tls_handshaking": {
+            "p(90)": 0,
+            "p(95)": 0,
+            "avg": 0,
+            "min": 0,
+            "med": 0,
+            "max": 0
+        },
+        "http_req_failed": {
+            "passes": 167089,
+            "fails": 71564,
+            "value": 0.7001336668719856
+        }
+    },
+    "root_group": {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "El status es 400 cuando no hay suficiente stock del o los productos solicitados? ": {
+                    "path": "::El status es 400 cuando no hay suficiente stock del o los productos solicitados? ",
+                    "id": "967198fd91a0a731467ee0edb2e0e13b",
+                    "passes": 79551,
+                    "fails": 0,
+                    "name": "El status es 400 cuando no hay suficiente stock del o los productos solicitados? "
+                },
+                "El error contiene mensaje? :": {
+                    "id": "6e2e75b75c95cb0856c5b50ffca85505",
+                    "passes": 159102,
+                    "fails": 0,
+                    "name": "El error contiene mensaje? :",
+                    "path": "::El error contiene mensaje? :"
+                },
+                "El status es 201/202/500? ": {
+                    "name": "El status es 201/202/500? ",
+                    "path": "::El status es 201/202/500? ",
+                    "id": "844d0124d9981308f83c72afaf8ec4fe",
+                    "passes": 79551,
+                    "fails": 0
+                },
+                "Cuando el status es 201, la respuesta contiene montoTotal? ": {
+                    "passes": 79551,
+                    "fails": 0,
+                    "name": "Cuando el status es 201, la respuesta contiene montoTotal? ",
+                    "path": "::Cuando el status es 201, la respuesta contiene montoTotal? ",
+                    "id": "77cf9695536366b833537aef7b3ffdb1"
+                },
+                "El status es 400 cuando la fecha es incorrecta?: ": {
+                    "path": "::El status es 400 cuando la fecha es incorrecta?: ",
+                    "id": "9f9d45adbcccf62828bafc8da9aea264",
+                    "passes": 79551,
+                    "fails": 0,
+                    "name": "El status es 400 cuando la fecha es incorrecta?: "
+                }
+            },
+        "name": "",
+        "path": ""
+    }
+}

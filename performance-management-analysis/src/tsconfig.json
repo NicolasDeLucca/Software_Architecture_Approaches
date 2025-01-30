@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",  
+      "outDir": "./dist",
+      "rootDir": "./",
+      "allowJs": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "include": [
+      "**/*.ts",
+      "*.ts",
+      "**/*.js"
+    ],
+    "exclude": [
+      "migrations/*.js",
+      "dist"
+    ]
+}

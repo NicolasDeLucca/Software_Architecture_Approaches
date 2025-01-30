@@ -1,0 +1,17 @@
+#!/bin/sh
+
+echo "----Iniciandose el stress test-----"
+
+mkdir -p ./summary
+mkdir -p ./log
+
+k6 run --summary-export=./summary/stress-summary.json ../test_base.js > ./log/stress-test-logs.txt
+
+if [ $? -eq 0 ]; then
+  echo "----stress test finalizado correctamente-----"
+else
+  echo "----Error al ejecutar el stress test-----" >&2
+  exit 1
+fi
+
+

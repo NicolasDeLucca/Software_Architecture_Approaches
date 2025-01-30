@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "----Iniciandose la pasarela de pagos-----"
+node ../dist/payment/payment-server.js

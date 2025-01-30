@@ -1,0 +1,18 @@
+#!/bin/sh
+
+echo "----Iniciandose el smoke test-----"
+
+mkdir -p ./summary
+mkdir -p ./log
+
+k6 run --summary-export=./summary/smoke-summary.json ../test_base.js > ./log/smoke-test-logs.txt
+
+
+if [ $? -eq 0 ]; then
+  echo "----Smoke test finalizado correctamente-----"
+else
+  echo "----Error al ejecutar el smoke test-----" >&2
+  exit 1
+fi
+
+
