@@ -1,0 +1,15 @@
+#!/bin/sh
+
+echo "----Iniciandose el average load test-----"
+
+mkdir -p ./summary
+mkdir -p ./log
+
+k6 run --summary-export=./summary/average-load-summary.json ../test_base.js > ./log/average-load-test-logs.txt
+
+if [ $? -eq 0 ]; then
+  echo "----Average load test finalizado correctamente-----"
+else
+  echo "----Error al ejecutar el average load test-----" >&2
+  exit 1
+fi

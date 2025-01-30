@@ -1,0 +1,6 @@
+#!/bin/sh
+
+NODE_ENV=development npx sequelize-cli db:drop
+NODE_ENV=production npx sequelize-cli db:drop
+NODE_ENV=production npx sequelize-cli db:create
+NODE_ENV=production npx sequelize-cli db:migrate

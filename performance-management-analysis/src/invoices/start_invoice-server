@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "----Iniciandose el servidor de facturación-----"
+node ../dist/invoices/invoice-server.js
